@@ -33,7 +33,7 @@ Displaying raw HTML code on a webpage can be tricky, as browsers try to interpre
 ## 📷 Screenshot
 
 ![Screenshot of the tool] 
-> *Replace `screenshot.png` with your actual image file or GitHub Pages URL.*
+> 'screenshot.png'
 
 ---
 
