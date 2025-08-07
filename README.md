@@ -32,7 +32,7 @@ Displaying raw HTML code on a webpage can be tricky, as browsers try to interpre
 
 ## 📷 Screenshot
 
-![App Screenshot](assets/screenshot.png))
+![App Screenshot](screenshot.png)
 
 ---
 
